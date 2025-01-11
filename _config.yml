@@ -31,6 +31,8 @@ title: A Collection of Random Nonsense
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 domain: acrn.co.uk      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://acrn.co.uk  # the base hostname and protocol for your site, e.g. http://example.com
