@@ -28,7 +28,7 @@ title: A Collection of Random Nonsense
 #github_username:  jekyll
 
 # Build settings
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
