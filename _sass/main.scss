@@ -1,3 +1,16 @@
+@import "fonts";
+
+body {
+    padding: 0px 0 20px 0px;
+    margin: 0px;
+    font:14px/1.5 "Garamond", serif;
+    color:#dbd7d0;
+    font-weight: normal;
+    background: #242323;
+    background-attachment: fixed !important;
+    background: linear-gradient(#2a2a29, #1c1c1c);
+}
+
 .current {
     color: green;
 }
