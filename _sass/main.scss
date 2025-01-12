@@ -10,36 +10,90 @@ body {
     background: #242323;
     background-attachment: fixed !important;
     background: linear-gradient(#0B100C, #382e2b);
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+
+    .header {
+        padding: 230px 0;
+        margin: auto;
+        width: 100%;
+        background-image: url("/assets/img/ninth_wave.jpg");
+        text-align: justify;
+        vertical-align: middle;
+        background-color: #242323;; /* Used if the image is unavailable */
+        height: 40%vh; /* You must set a specified height */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
+    
+        .site-title {
+            color:#ffffff;
+            text-align: center;
+            font:50px/1.5 "Garamond", serif;
+            
+        }
+    
+        .site-description {
+            color:#ffffff;
+            text-align: center;
+            font:12px/1.5 "Garamond", serif;
+        }
+    
+        a {
+            color: #ffffff;
+            text-decoration: none;
+        }
+    }
+
+    .nav-container {
+       justify-content: space-between;
+       margin: auto;
+       width: 60%;
+
+       nav {
+            display: flex;
+            justify-content: space-around;
+            flex-direction: line;
+
+            a {
+                font:24px/1.5 "Garamond", serif;
+                text-decoration: none;
+                color:#ffffff;
+
+            }
+       }
+    }
+
+    .main-body-container {
+        text-align: justify;
+        vertical-align: middle;
+        margin: auto;
+        width: 60%;
+    }
+
+    .footer {
+        h1 {
+            color:#ffffff;
+            text-align: left;
+            font:12px/1.5 "Garamond", serif;
+        }
+
+            a {
+                text-decoration: none;
+                color:#ffffff;
+            }
+
+    }
 }
 
-.header {
-    padding: 230px 0;
-    margin: auto;
-    width: 100%;
-    background-image: url("/assets/img/ninth_wave.jpg");
-    text-align: justify;
-    vertical-align: middle;
-    background-color: #242323;; /* Used if the image is unavailable */
-    height: 500px; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+.post-link {
+    text-decoration: none;
+    color:#ffffff;
+    font:35px/1.5 "Garamond", serif;
+}
 
-    .site-title {
-        color:#ffffff;
-        text-align: center;
-        font:50px/1.5 "Garamond", serif;
-        
-    }
-
-    .site-description {
-        color:#ffffff;
-        text-align: center;
-        font:12px/1.5 "Garamond", serif;
-    }
-
-    a {
-        color: #ffffff;
-        text-decoration: none;
-    }
+p {
+    font:20px/1.5 "Garamond", serif;
 }

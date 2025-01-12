@@ -2,15 +2,9 @@
 layout: default
 title: A Collection of Random Nonsense
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
+<h1>Welcome!</h1>
+<p>to <b>A Collection of Random Nonsense</b> (acrn)(the acorn domain will have set me back 10000 USD, this was far cheaper in comparison). This is the place where yours truly screams into the void, and luckily the void will never answer. Every week (God willing) you'll receive a post wasting a few minutes of your day. They say, to have a succesful blog, pick a niche. I vehemently refuse to do so. Expect anything and everything. <b>WIP</b></p>
 
 <h1>Latest Posts</h1>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+{% include blog_element.html %}

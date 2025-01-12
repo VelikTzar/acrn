@@ -1,0 +1,8 @@
+<ul class="post-list">
+    {% for post in site.posts reversed %}
+      <li>
+        <h2><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h2>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+</ul>
