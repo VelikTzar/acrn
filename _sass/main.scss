@@ -50,26 +50,27 @@ body {
         }
     }
 
-    .nav-container {
-       justify-content: space-between;
-       margin: auto;
-       width: 60%;
 
-       nav {
-            display: flex;
-            justify-content: space-around;
-            flex-direction: line;
-
-            a {
-                font:24px/1.5 "Garamond", serif;
-                text-decoration: none;
-                color:#ffffff;
-
-            }
-       }
-    }
     @media screen and (min-width: 1200px) {
-        
+        .nav-container {
+            justify-content: space-between;
+            margin: auto;
+            width: 60%;
+     
+            nav {
+                 display: flex;
+                 justify-content: space-around;
+                 flex-direction: line;
+     
+                 a {
+                     font:24px/1.5 "Garamond", serif;
+                     text-decoration: none;
+                     color:#ffffff;
+     
+                 }
+            }
+         }
+
         .main-body-container {
             text-align: justify;
             vertical-align: middle;
@@ -111,6 +112,26 @@ p {
 }
 
 @media screen and (max-width: 1200px){
+
+    .nav-container {
+        justify-content: space-between;
+        margin: auto;
+        width: 80%;
+ 
+        nav {
+             display: flex;
+             justify-content: space-around;
+             flex-direction: line;
+ 
+             a {
+                 font:24px/1.5 "Garamond", serif;
+                 text-decoration: none;
+                 color:#ffffff;
+ 
+             }
+        }
+    }
+
     .main-body-container {
         text-align: justify;
         vertical-align: middle;
