@@ -107,3 +107,19 @@ body {
 p {
     font:20px/1.5 "Garamond", serif;
 }
+
+@media screen and (max-width: 828px){
+    .main-body-container {
+        text-align: justify;
+        vertical-align: middle;
+        margin: auto;
+        width: 100%;
+
+        a {
+            text-decoration: none;
+            color:#ffffff;
+        }
+    }
+
+    
+}
