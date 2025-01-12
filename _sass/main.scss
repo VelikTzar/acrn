@@ -1,13 +1,45 @@
 @import "fonts";
 
 body {
-    padding: 0px 0 20px 0px;
-    margin: 0px;
+    overflow: auto;
+    padding: 0px 0px 0px;
+    margin: auto;
     font:14px/1.5 "Garamond", serif;
     color:#dbd7d0;
     font-weight: normal;
     background: #242323;
     background-attachment: fixed !important;
-    background: linear-gradient(#2a2a29, #1c1c1c);
+    background: linear-gradient(#0B100C, #382e2b);
 }
 
+.header {
+    padding: 230px 0;
+    margin: auto;
+    width: 100%;
+    background-image: url("/assets/img/ninth_wave.jpg");
+    text-align: justify;
+    vertical-align: middle;
+    background-color: #242323;; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+
+    .site-title {
+        color:#ffffff;
+        text-align: center;
+        font:50px/1.5 "Garamond", serif;
+        
+    }
+
+    .site-description {
+        color:#ffffff;
+        text-align: center;
+        font:12px/1.5 "Garamond", serif;
+    }
+
+    a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+}
