@@ -77,7 +77,8 @@ body {
     }
 
     .footer {
-        width: 100%;
+        position: relative;
+        left: 0px;
         h1 {
             color:#ffffff;
             text-align: left;
