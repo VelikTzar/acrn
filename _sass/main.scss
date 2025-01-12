@@ -2,7 +2,6 @@
 
 body {
     overflow: auto;
-    padding: 0px 0px 0px;
     margin: auto;
     font:14px/1.5 "Garamond", serif;
     color:#dbd7d0;
@@ -13,9 +12,12 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
+
 
     .header {
+        position: relative;
+        z-index: 1000;
         padding: 220px 0;
         margin: auto;
         width: 100%;
@@ -23,7 +25,8 @@ body {
         text-align: justify;
         vertical-align: middle;
         background-color: #242323;; /* Used if the image is unavailable */
-        height: 40%vh; /* You must set a specified height */
+        
+         /* You must set a specified height */
         background-position: center; /* Center the image */
         background-repeat: no-repeat; /* Do not repeat the image */
         background-size: cover; /* Resize the background image to cover the entire container */
