@@ -68,7 +68,7 @@ body {
             }
        }
     }
-    @media screen and (min-width: 900px) {
+    @media screen and (min-width: 1200px) {
         
         .main-body-container {
             text-align: justify;
@@ -110,7 +110,7 @@ p {
     font:20px/1.5 "Garamond", serif;
 }
 
-@media screen and (max-width: 899px){
+@media screen and (max-width: 1200px){
     .main-body-container {
         text-align: justify;
         vertical-align: middle;
