@@ -68,16 +68,18 @@ body {
             }
        }
     }
+    @media screen and (min-width: 900px) {
+        
+        .main-body-container {
+            text-align: justify;
+            vertical-align: middle;
+            margin: auto;
+            width: 60%;
 
-    .main-body-container {
-        text-align: justify;
-        vertical-align: middle;
-        margin: auto;
-        width: 60%;
-
-        a {
-            text-decoration: none;
-            color:#ffffff;
+            a {
+                text-decoration: none;
+                color:#ffffff;
+            }
         }
     }
 
@@ -108,7 +110,7 @@ p {
     font:20px/1.5 "Garamond", serif;
 }
 
-@media screen and (max-width: 828px){
+@media screen and (max-width: 899px){
     .main-body-container {
         text-align: justify;
         vertical-align: middle;
