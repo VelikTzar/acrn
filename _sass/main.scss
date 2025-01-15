@@ -165,19 +165,21 @@
         }
 
         .nav-container {
+            display: flex;
+            flex-direction: line;
             justify-content: space-between;
             margin: auto;
             width: 60%;
     
             nav {
                 display: flex;
-                justify-content: space-around;
+                justify-content: space-between;
                 flex-direction: line;
                 text-align: justify;
                 vertical-align: middle;
     
                 a {
-                    font:24px/1.5 "Garamond", serif;
+                    font:48px/1.5 "Garamond", serif;
                     text-decoration: none;
                     color:#ffffff;
     
@@ -189,7 +191,7 @@
             text-align: justify;
             vertical-align: middle;
             margin: auto;
-            min-width: 80vw;
+            min-width: 80%;
     
             a {
                 text-decoration: none;
