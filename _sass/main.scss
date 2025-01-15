@@ -1,75 +1,74 @@
 @import "fonts";
 
-body {
-    overflow: auto;
-    margin: auto;
-    font:14px/1.5 "Garamond", serif;
-    color:#dbd7d0;
-    font-weight: normal;
-    background: #242323;
-    background-attachment: fixed !important;
-    background: linear-gradient(#0B100C, #382e2b);
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-    justify-content: space-around;
-
-
-    .header {
-        position: relative;
-        z-index: 1000;
-        padding: 220px 0;
+@media screen and (min-width: 1200px) {
+    body {
+        overflow: auto;
         margin: auto;
-        width: 100%;
-        background-image: url("/assets/img/ninth_wave.jpg");
-        text-align: justify;
-        vertical-align: middle;
-        background-color: #242323;; /* Used if the image is unavailable */
-        
-         /* You must set a specified height */
-        background-position: center; /* Center the image */
-        background-repeat: no-repeat; /* Do not repeat the image */
-        background-size: cover; /* Resize the background image to cover the entire container */
-    
-        .site-title {
-            color:#ffffff;
-            text-align: center;
-            font:50px/1.5 "Garamond", serif;
+        font:14px/1.5 "Garamond", serif;
+        color:#dbd7d0;
+        font-weight: normal;
+        background: #242323;
+        background-attachment: fixed !important;
+        background: linear-gradient(#0B100C, #382e2b);
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+        justify-content: space-around;
+
+
+        .header {
+            position: relative;
+            z-index: 1000;
+            padding: 220px 0;
+            margin: auto;
+            width: 100%;
+            background-image: url("/assets/img/ninth_wave.jpg");
+            text-align: justify;
+            vertical-align: middle;
+            background-color: #242323;; /* Used if the image is unavailable */
             
+            /* You must set a specified height */
+            background-position: center; /* Center the image */
+            background-repeat: no-repeat; /* Do not repeat the image */
+            background-size: cover; /* Resize the background image to cover the entire container */
+        
+            .site-title {
+                color:#ffffff;
+                text-align: center;
+                font:50px/1.5 "Garamond", serif;
+                
+            }
+        
+            .site-description {
+                color:#ffffff;
+                text-align: center;
+                font:12px/1.5 "Garamond", serif;
+            }
+        
+            a {
+                color: #ffffff;
+                text-decoration: none;
+            }
         }
-    
-        .site-description {
-            color:#ffffff;
-            text-align: center;
-            font:12px/1.5 "Garamond", serif;
-        }
-    
-        a {
-            color: #ffffff;
-            text-decoration: none;
-        }
-    }
 
-
-    @media screen and (min-width: 1200px) {
         .nav-container {
             justify-content: space-between;
             margin: auto;
             width: 60%;
-     
+    
             nav {
-                 display: flex;
-                 justify-content: space-around;
-                 flex-direction: line;
-     
-                 a {
-                     font:24px/1.5 "Garamond", serif;
-                     text-decoration: none;
-                     color:#ffffff;
-     
-                 }
+                display: flex;
+                justify-content: space-around;
+                flex-direction: line;
+    
+                a {
+                    font:24px/1.5 "Garamond", serif;
+                    text-decoration: none;
+                    color:#ffffff;
+    
+                }
             }
-         }
+        }
 
         .main-body-container {
             text-align: justify;
@@ -82,68 +81,146 @@ body {
                 color:#ffffff;
             }
         }
+
+
+        
+
+        .footer {
+            position: relative;
+            left: 0px;
+            h1 {
+                color:#ffffff;
+                text-align: left;
+                font:12px/1.5 "Garamond", serif;
+            }
+
+                a {
+                    text-decoration: none;
+                    color:#ffffff;
+                }
+
+        }
     }
 
-    .footer {
-        position: relative;
-        left: 0px;
-        h1 {
-            color:#ffffff;
-            text-align: left;
-            font:12px/1.5 "Garamond", serif;
+    .post-link {
+        text-decoration: none;
+        color:#ffffff;
+        font:35px/1.5 "Garamond", serif;
+    }
+
+    p {
+        font:20px/1.5 "Garamond", serif;
+    }
+}
+
+
+@media screen and (max-width: 1200px){
+    body {
+        overflow: auto;
+        margin: auto;
+        font:14px/1.5 "Garamond", serif;
+        color:#dbd7d0;
+        font-weight: normal;
+        background: #242323;
+        background-attachment: fixed !important;
+        background: linear-gradient(#0B100C, #382e2b);
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+        justify-content: space-around;
+
+
+        .header {
+            position: relative;
+            z-index: 1000;
+            padding: 220px 0;
+            margin: auto;
+            width: 100%;
+            background-image: url("/assets/img/ninth_wave.jpg");
+            text-align: justify;
+            vertical-align: middle;
+            background-color: #242323;; /* Used if the image is unavailable */
+            
+            /* You must set a specified height */
+            background-position: center; /* Center the image */
+            background-repeat: no-repeat; /* Do not repeat the image */
+            background-size: cover; /* Resize the background image to cover the entire container */
+        
+            .site-title {
+                color:#ffffff;
+                text-align: center;
+                font:50px/1.5 "Garamond", serif;
+                
+            }
+        
+            .site-description {
+                color:#ffffff;
+                text-align: center;
+                font:12px/1.5 "Garamond", serif;
+            }
+        
+            a {
+                color: #ffffff;
+                text-decoration: none;
+            }
         }
 
+        .nav-container {
+            justify-content: space-between;
+            margin: auto;
+            width: 60%;
+    
+            nav {
+                display: flex;
+                justify-content: space-around;
+                flex-direction: line;
+    
+                a {
+                    font:24px/1.5 "Garamond", serif;
+                    text-decoration: none;
+                    color:#ffffff;
+    
+                }
+            }
+        }
+
+        .main-body-container {
+            text-align: justify;
+            vertical-align: middle;
+            margin: auto;
+            width: 80%;
+    
             a {
                 text-decoration: none;
                 color:#ffffff;
             }
+        }
 
-    }
-}
+        .footer {
+            position: relative;
+            left: 0px;
+            h1 {
+                color:#ffffff;
+                text-align: left;
+                font:12px/1.5 "Garamond", serif;
+            }
 
-.post-link {
-    text-decoration: none;
-    color:#ffffff;
-    font:35px/1.5 "Garamond", serif;
-}
+                a {
+                    text-decoration: none;
+                    color:#ffffff;
+                }
 
-p {
-    font:20px/1.5 "Garamond", serif;
-}
-
-@media screen and (max-width: 1200px){
-
-    .nav-container {
-        
-        margin: auto;
-        width: 80%;
-        height: 1%;
- 
-        nav {
-             display: flex;
-             justify-content: space-around;
-             flex-direction: line;
- 
-             a {
-                 font:24px/1.5 "Garamond", serif;
-                 text-decoration: none;
-                 color:#ffffff;
- 
-             }
         }
     }
 
-    .main-body-container {
-        text-align: justify;
-        vertical-align: middle;
-        margin: auto;
-        width: 80%;
-
-        a {
-            text-decoration: none;
-            color:#ffffff;
-        }
+    .post-link {
+        text-decoration: none;
+        color:#ffffff;
+        font:35px/1.5 "Garamond", serif;
     }
 
+    p {
+        font:20px/1.5 "Garamond", serif;
+    }
     
 }
