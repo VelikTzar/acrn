@@ -131,7 +131,8 @@
 
 
         .header {
-            position: relative;
+            position: fixed;
+            top: 0px;
             z-index: 1000;
             padding: 0px 0;
             margin: auto;
@@ -167,12 +168,16 @@
         }
 
         .nav-container {
-            
-            width: 60%;
+            justify-content: space-between;
             margin: auto;
+            width: 60%;
+    
             nav {
-                justify-content: space-evenly;
-                flex-direction: row;
+                display: flex;
+                justify-content: space-around;
+                flex-direction: line;
+                text-align: justify;
+                vertical-align: middle;
     
                 a {
                     font:24px/1.5 "Garamond", serif;
