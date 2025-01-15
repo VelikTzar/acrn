@@ -127,12 +127,11 @@
         display: flex;
         min-height: 100vh;
         flex-direction: column;
-        justify-content: space-around;
+        justify-content:center;
 
 
         .header {
-            position: fixed;
-            top: 0px;
+            position: relative;
             z-index: 1000;
             padding: 10%;
             margin: auto;
