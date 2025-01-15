@@ -133,7 +133,7 @@
         .header {
             position: relative;
             z-index: 1000;
-            padding: 220px 0;
+            padding: 0px 0;
             margin: auto;
             width: 100%;
             background-image: url("/assets/img/ninth_wave.jpg");
@@ -166,14 +166,11 @@
         }
 
         .nav-container {
-            justify-content: space-between;
-            margin: auto;
+            
             width: 60%;
     
             nav {
-                display: flex;
-                justify-content: space-around;
-                flex-direction: line;
+
     
                 a {
                     font:24px/1.5 "Garamond", serif;
