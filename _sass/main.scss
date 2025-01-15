@@ -168,8 +168,9 @@
         .nav-container {
             
             width: 60%;
-    
+            margin: auto;
             nav {
+                justify-content: space-evenly;
 
     
                 a {
