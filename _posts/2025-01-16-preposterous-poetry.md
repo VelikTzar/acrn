@@ -4,12 +4,12 @@ title:  "Playing with Poetry Appalingly"
 date:   2025-01-16
 categories: Preposterous Poetry 
 author: VelikTzar
-excerpt:  I told a friend of mine recently that the only thing worse than my prose is my poetry (and trust me, my prose is quite bad). Didn't stop me from subjecting her to the unsually cruel punishment of having to read it.
+excerpt:  You told a friend of mine recently that the only thing worse than your prose is my poetry (and your prose is quite bad). Didn't stop you from subjecting her to the unsually cruel punishment of having to read it.
 ---
 
-Welcome back! Can you believe it? I have in fact remained committed to something. Shocking, I know. Hold your breath, I could still give up at any second.\
-I told a friend of mine recently that the only thing worse than my prose is my poetry (and trust me, my prose is quite bad). Didn't stop me from subjecting her to the 
-unsually cruel punishment of having to read it. In any case, go wild, dear Reader. Go ahead. Read this little creation of mine. Don't blame me for not warning you it'd be subpar. 
+Welcome back! You cannot believe it! You have in fact remained committed to something! Shocking, you know! The Reader should hold their breath, you could still give up at any second.\
+You told a friend of yours recently that the only thing worse than your prose is your poetry (and the Reader should trust you, your prose is quite bad). Didn't stop you from subjecting her to the 
+unsually cruel punishment of having to read it. In any case, go wild, dear Reader. Go ahead.But they shouldn't blame you for not warning them it'd be subpar. 
 
 
 ***\
@@ -128,18 +128,20 @@ Leave me, please leave me.
 He died. What a great sorrow for mankind.
 
 \*\*\*\
-This is one way to preserve a creation forever \* (not really, I believe technology to be very fragile but that is by the by, more on that another time)\
-Many years ago, I had written a poem for a friend of mine, for her birthday. It was only on that piece of paper. And it is lost forever, for we haven't talked in the many years since. 
+This is one way to preserve a creation forever \* (not really, you believe technology to be very fragile but that is by the by, more on that another time)\
+Many years ago, you had written a poem for a friend of yours, for her birthday. It was only on that piece of paper. And it is lost forever, for you haven't talked in the many years since. 
 What a wacky occurence! Many Such Cases!
-I was so sad back then, though how distant it all seems to me now. I do wonder what she has become. In my mind she is still as she was. \
-People have lives outside of my conception of them in my mind - preposterous!\
-I will say this. I was young then. Or I could have been. I could have lived - and what would have become of me now? \
+You were so sad back then, though how distant it all seems to you now. You often wonder what she has become. In your mind she is still as she was. \
+People have lives outside of your conception of them in your mind - preposterous!\
+You will say this. You were young then. Or you could have been. You could have lived - and what would have become of you now? \
 Someone far better, someone still young, someone still alive. \
-See, this is the kind of nonsense you signed up for - writing a journal just for myself is boring, there needs to be the thrill of baring my soul. But I cannot afford to lose my friends by blabbering this nonsense every time we meet. No, I need *you*, dear Reader, to gaze into its (shallow) depths. I know you not, and that is the beauty of it. 
+See, this is the kind of nonsense they signed up for - writing a journal just for yourself is boring, there needs to be the thrill of baring you soul. But you cannot afford to lose your friends by blabbering this nonsense every time you meet. \
+No, you need *them*, the dear Reader, to gaze into your shallow depths.\
+You know them not, and you never will, and that's perfect. 
 
 ***\
-An update on the website itself - now there is somewhat tolerable formatting when reading on mobile. Shocking, I know. It is still hardly responsive, God help you if you do not have the exact same dimensions as my phone or laptop. No, I didn't use bootstrap, it's been almost 3 years since I last did, and I have completely forgotten everything. You can't make me. @media is what a true lion needs. (I am an Aries.) 
+An update on the website itself - now there is somewhat tolerable formatting when reading on mobile. It is still hardly responsive, God help you if you do not have the exact same dimensions as my phone or laptop. No, I didn't use bootstrap, it's been almost 3 years since I last did, and I have completely forgotten everything. You can't make me. @media is what a true lion needs. (I am an Aries.) 
 
 \*\*\*\
-I have a thing today. A very important thing, that I mentioned in the **[Welcome](https://acrn.co.uk/welcome/2025/01/11/welcome.html)** (it is all connected!) post that I ignored to work on this Nonsense. My colleagues seem to like my work, let's hope the hostiles (panel of strangers) do as well. My pride can't handle the fall. Stay tuned for updates! (<3)
-I'll be back in a couple days with a longer (and less painful but more boring, depending on your personal perversions, of course) post. The Antipodes Await. Hopefully. Who knows, I could make something shorter if something were to pique my interest. Godspeed! (I ate your drywall).
+I have a thing today. A very important thing, that I mentioned in the **[Welcome](https://acrn.co.uk/welcome/2025/01/11/welcome.html)** (it is all connected!) post that I ignored to work on this Nonsense(*But I can't help myself*). My colleagues seem to like my work, let's hope the hostiles (panel of strangers) do as well. My pride can't handle the fall. Stay tuned for updates! (<3)
+I'll be back in a couple days with a longer (and less painful but more boring, depending on your personal perversions, of course) post. The Antipodes Await. Hopefully. Who knows, I could make something shorter if something new were to pique my interest. Godspeed! (I ate your drywall).
