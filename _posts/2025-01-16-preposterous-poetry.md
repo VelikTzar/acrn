@@ -4,7 +4,7 @@ title:  "Playing with Poetry Appalingly"
 date:   2025-01-16
 categories: Preposterous Poetry 
 author: VelikTzar
-excerpt:  You told a friend of mine recently that the only thing worse than your prose is my poetry (and your prose is quite bad). Didn't stop you from subjecting her to the unsually cruel punishment of having to read it.
+excerpt:  You told a friend of mine recently that the only thing worse than your prose is your poetry (and your prose is quite bad). Didn't stop you from subjecting her to the unsually cruel punishment of having to read it.
 ---
 
 Welcome back! You cannot believe it! You have in fact remained committed to something! Shocking, you know! The Reader should hold their breath, you could still give up at any second.\
